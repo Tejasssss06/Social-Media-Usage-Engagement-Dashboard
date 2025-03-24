@@ -6,6 +6,9 @@ The objective of this project is to analyze social media usage data to understan
 ## Dataset Used
 - <a href= "https://github.com/Tejasssss06/Social-Media-Usage-and-Engagement-Dashboard/blob/main/social_media_usage_Dataset.csv">Dataset</a>
 
+## Dashboard
+- <a href= "https://github.com/Tejasssss06/Social-Media-Usage-and-Engagement-Dashboard/blob/main/social_media_usage_Analysis.xlsx">Analysis and Dashboard</a>
+
 ## Key Highlights
 - Calculated metrics like Engagement Score, Engagement per Minute, and User Activity Segmentation.
 - Built dynamic Pivot Tables and charts to track engagement trends.
