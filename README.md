@@ -1,4 +1,4 @@
-# Social Media Usage Engagement Dashboard
+# Social Media Usage and Engagement Dashboard
 
 ## Objective
 The objective of this project is to analyze social media usage data to understand user behavior, measure engagement levels, and identify patterns across different platforms. The goal is to visualize key performance indicators (KPIs) such as Daily Minutes Spent, Engagement Score, and Activity Level using Excel dashboards and provide actionable insights to enhance content strategy and campaign performance.
